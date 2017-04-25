@@ -2,7 +2,6 @@ package net.astercrono.colorgen;
 
 import java.awt.Color;
 import java.awt.Dimension;
-import java.util.List;
 
 import javax.swing.JFrame;
 
