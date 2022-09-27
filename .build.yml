@@ -6,7 +6,7 @@ sources:
   - https://git.sr.ht/~astercrono/java-color-grid
   - https://git.sr.ht/~astercrono/java-color-generator
 tasks:
-  - setup: |
+  - dependency: |
       cd java-color-grid
       mvn install
   - build: |
