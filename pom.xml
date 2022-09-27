@@ -32,17 +32,5 @@
 			<artifactId>junit</artifactId>
 			<version>4.12</version>
 		</dependency>
-		<dependency>
-			<groupId>com.github.astercrono</groupId>
-			<artifactId>java-color-grid</artifactId>
-			<version>v1.0.0</version>
-		</dependency>
 	</dependencies>
-
-	<repositories>
-		<repository>
-			<id>jitpack.io</id>
-			<url>https://jitpack.io</url>
-		</repository>
-	</repositories>
 </project>
